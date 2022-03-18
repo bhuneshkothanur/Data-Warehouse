@@ -71,6 +71,3 @@ The json contains details regarding the users such as firstname, lastname, gende
 Deleted the cluster and detach the IAM role.
 
 
-**REFERENCES**
-
-> Udacity Knowledge hub.
